@@ -11,3 +11,10 @@ Guide to build an NFT
   2. Add tokenURI json to IPFS
   3. Add IPFS URI to your NFT URI
 
+NOTE: IPFS power decentralized apps and help to make them light weight. They provide a hash contributed with different nodes and facilitates easy communication of nodes. IPFS actually does storage roles.
+
+Do more research on IPFS and its difference with blockchain
+
+
+
+

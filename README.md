@@ -8,3 +8,8 @@ This is the foundry Basic Nft contract that will implement a simple NFT with fou
     ```
     forge install OpenZepplin/openzeppelin-contracts --no-commit
     ```
+
+### Deal with IPFS
+    add  IPFS campanion to browser and then download it.
+    Or use an IPFS gateway
+
