@@ -17,4 +17,4 @@ docs/
 broadcast
 
 #chainlink
-chainlink-brownie-contracts/
+lib/oppenzeppelin-contracts/
