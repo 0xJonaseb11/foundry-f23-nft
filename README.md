@@ -13,3 +13,6 @@ This is the foundry Basic Nft contract that will implement a simple NFT with fou
     add  IPFS campanion to browser and then download it.
     Or use an IPFS gateway
 
+<hr>
+
+### @Jonas-sebera
