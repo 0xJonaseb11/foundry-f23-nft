@@ -1,18 +1,20 @@
-### Author: @Jonas-sebera
-<hr>
+# foundry-f23-nft
 
-### About
+## About
+
 This is the foundry Basic Nft contract that will implement a simple NFT with foundry tool .
 
 ### Getting started
-```
+
+```sh
 forge install OpenZeppelin/openzeppelin-contracts --no-commit
 ```
 
 ### Deal with IPFS
-    add  IPFS campanion to browser and then download it.
-    Or use an IPFS gateway
 
-<hr>
+- add  IPFS campanion to browser and then download it.
+- Or use an IPFS gateway
 
-### @Jonas-sebera
+-----------------------
+
+@Jonaseb11
